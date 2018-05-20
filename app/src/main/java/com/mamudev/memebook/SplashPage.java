@@ -15,6 +15,7 @@ public class SplashPage extends AppCompatActivity {
         super.setTheme(R.style.SplashTheme);
         setContentView(R.layout.activity_splash_page);
 
+        //Splash Screen to Next Activity
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
