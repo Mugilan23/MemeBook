@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="colorPrimary">#ffeb3b</color>
-    <color name="colorPrimaryDark">#fbc02d</color>
+    <color name="colorPrimary">#301a39</color>
+    <color name="colorPrimaryDark">#301a39</color>
     <color name="colorAccent">#7cb342</color>
 
-    <color name="splashPrimary">#ffeb3b</color>
-    <color name="splashAccent">#d50000</color>
+    <color name="splashPrimary">#301a39</color>
+    <color name="splashAccent">#fccdcd</color>
 
 </resources>
