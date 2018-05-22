@@ -34,7 +34,7 @@ public class SplashPage extends AppCompatActivity {
             @Override
             public void run() {
 
-                Intent i = new Intent(SplashPage.this, MainActivity.class);
+                Intent i = new Intent(SplashPage.this, Login_screen.class);
                 i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                 startActivity(i);
 
