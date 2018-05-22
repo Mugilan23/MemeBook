@@ -7,5 +7,6 @@
 
     <color name="splashPrimary">#301a39</color>
     <color name="splashAccent">#fccdcd</color>
+    <color name="whitecolor">#fbdcfc</color>
 
 </resources>
