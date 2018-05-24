@@ -21,6 +21,7 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".Login_screen" />
         <activity android:name=".Forgotpassword_screen"></activity>
+        <activity android:name=".SignUpActivity"></activity>
     </application>
 
 </manifest>

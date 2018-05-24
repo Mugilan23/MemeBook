@@ -14,4 +14,11 @@
         <item name="colorAccent">@color/splashAccent</item>
     </style>
 
+    <style name="LoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/loginPrimary</item>
+        <item name="colorPrimaryDark">@color/loginPrimary</item>
+        <item name="colorAccent">@color/loginAccent</item>
+        <item name="android:windowBackground">@color/backgroundLoginSignup</item>
+    </style>
+
 </resources>

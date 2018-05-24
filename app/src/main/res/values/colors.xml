@@ -10,4 +10,9 @@
     <color name="whitecolor">#fbdcfc</color>
     <color name="light_gray">#d9363e</color>
 
+    <color name="loginPrimary">#301a39</color>
+    <color name="loginAccent">#fccdcd</color>
+
+    <color name="backgroundLoginSignup">#bbdefb</color>
+
 </resources>

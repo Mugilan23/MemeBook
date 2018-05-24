@@ -1,4 +1,20 @@
 <resources>
+
+    <!-- Base -->
     <string name="app_name">Meme Book</string>
     <string name="catch_phrase">Social Media for Meme Creators</string>
+
+    <!-- Login & Sign-up -->
+    <string name="login">Log-In</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="or">or</string>
+    <string name="send">Send</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="new_user">New User? Sign Up</string>
+    <string name="reset_password">Enter your Email Address</string>
+    <string name="existing_user">Back to Login</string>
+
 </resources>
